@@ -1,9 +1,9 @@
-import UseCallbackExample from './components/UseCallbackExample'
+import UseFetchExample from './components/UseFetchExample'
 
 function App() {
   return (
     <div className='container mt-5'>
-      <UseCallbackExample />
+      <UseFetchExample />
     </div>
   )
 }
