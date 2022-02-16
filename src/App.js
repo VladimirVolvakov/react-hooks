@@ -1,9 +1,9 @@
-import UseFetchExample from './components/UseFetchExample'
+import UseLocalStorageExample from './components/UseLocalStorageExample'
 
 function App() {
   return (
     <div className='container mt-5'>
-      <UseFetchExample />
+      <UseLocalStorageExample />
     </div>
   )
 }
